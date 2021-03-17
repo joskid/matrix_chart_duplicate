@@ -1,2 +1,2 @@
-# matrix_chart_duplicate
-Example of dupicated Matrix Chart
+# D3.js Matrix Chart using Python Flask
+Example of duplicated Matrix Chart
